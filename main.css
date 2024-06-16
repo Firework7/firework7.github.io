@@ -1,1 +1,52 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML and CSS</title>
+</head>
+<body>
+
+<h1>HTML and CSS</h1>
+<h1>What is the difference between HTML and CSS.</h1>
+
+<h1>HTML</h1>
+
+HTML stands for Hyper Text Markup Language it's the basic scripting language used by web browsers to render pages on the World Wide Web. 
+HTML is like the skeleton of the website.
+
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: teal;
+}
+
+h1 {
+  color: gold;
+  text-align: center;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+</body>
+
+  <h1 {
+    color: white;
+
+<h2>CSS</h2>
+
+CSS stands for Cascading style sheet it's used to style and layout web pages, like font, size, and color. 
+CSS is the flesh part of the skeleton to make the webpage more inviting and good to look at. 
+
+</body>
+</html>
+
