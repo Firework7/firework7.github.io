@@ -1,0 +1,61 @@
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>HTML and CSS</h1>
+  <p>A What is HTML, CSS and JAVASCRIPT?</p>
+</div>
+
+<div class="navbar">
+  <a href="https://en.wikipedia.org/wiki/HTML">Link</a>
+  <a href="https://en.wikipedia.org/wiki/CSS">Link</a>
+  <a href="https://simple.wikipedia.org/wiki/JavaScript">Link</a>
+  <a href="https://techbootcamps.utexas.edu/blog/html-css-javascript/#:~:text=Like%20we%20mentioned%20earlier%2C%20HTML,a%20user%20can%20interact%20with." class="right">Link</a>
+</div>
+
+<div class="row">
+  <div class="side">
+    <h2>HTML, CSS AND JAVASCRIPT</h2>
+    <h5>How are HTML, CSS, and Javascript Related?</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>HTML is used to add text elements and create the structure of content. However, it is not enough to build a professional and fully responsive website. HTML needs the help of Cascading Style Sheets (CSS) and JavaScript to create the vast majority of website content. CSS is responsible for stylings such as background, colors, layouts, spacing, and animations. JavaScript adds dynamic functionality such as sliders, pop-ups, and photo galleries. These three languages are the fundamentals of front-end development.</p>
+    <h3>PROS AND CONS FOR HTML.</h3>
+    <p>PROS.</p>
+    <p> Beginner-friendly. HTML has a clean and consistent markup, as well as a shallow learning curve. Support.</p> <p>The language is widely used, with a lot of resources and a large community behind it.</p> <p> Accessible. It is open-source and completely free. HTML runs natively in all web browsers.</p> <p>Flexible. HTML is easily integrable with backend languages such as PHP and Node.js. </p>
+    <p>CONS</p>
+    <p>Static. The language is primarily used for static websites. For dynamic functionality, you may need to use JavaScript or a back-end language such as PHP.</p> <p>Separate HTML page. Users have to create individual web pages for HTML, even if the elements are the same.</p> <p>Browser compatibility. Some browsers adopt new features slowly. Sometimes older browsers don’t always render newer tags. </p>
+    <div class="fakeimg" style="height:60px;">Image</div><br>
+    <div class="fakeimg" style="height:60px;">Image</div><br>
+    <div class="fakeimg" style="height:60px;">Image</div>
+  </div>
+  <div class="main">
+    <h2>HTML</h2>
+    <h5>HTML = (HyperText Markup Language), June 20th 23</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>HTML is the code that is used to structure a web page and its content. Content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables.</p>
+    <p>Just as a skeleton provides the structure and support for the human body, HTML provides the structure and layout for a website. HTML defines the different elements of a webpage, such as headings, paragraphs, images, and links, and it provides a framework for organizing and arranging the content of a webpage.  </p>
+    <br>
+    <h2>CSS</h2>
+    <h5>CSS = Cascading Style Sheets, June 20th 23</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>CSS is a computer language for laying out and structuring web pages (HTML or XML). This language contains coding elements and is composed of these “cascading style sheets” which are equally called CSS files css.</p>
+    <p>CSS is like the flesh part of the human body. skin color, hair, eyes color.</p>
+  </div>
+</div>
+<br>
+<div class="main">
+    <h2>JAVASCRIPT</h2>
+    <h5>JS = JavaScript, June 20th 23</h5>
+    <div class="fakeimg" style="height:200px;">Image</div>
+    <p>JavaScript is a scripting language that enables you to create dynamically updating content, control multimedia, animate images, and pretty much everything else. JavaScript is a scripting language used to create and control dynamic website content i.e. anything that moves, refreshes, or otherwise changes on your screen without requiring you to manually reload a web page. Features like: animated graphics. photo slideshows.</p>
+    <br>
+
+
+
+<div class="footer">
+  <h2>Goodbuy</h2>
+</div>
+
+</body>
+</html>
